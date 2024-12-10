@@ -16,4 +16,4 @@ This repository demonstrates how to use GitHub Actions to deploy a website to Gi
 
 ## Access the Website
 
-Visit the live website at: [https://varunchi.github.io/gh-deployment-workflow/](https://<username>.github.io/gh-deployment-workflow/)
+Visit the live website at: [https://varunchi.github.io/gh-deployment-workflow/](https://varunchi.github.io/gh-deployment-workflow/)
